@@ -14,7 +14,7 @@ Key Features:<br>
 User-friendly interface designed for kids<br>
 Engaging and interactive games and activities<br>
 A variety of educational subjects including arithmetic, language, and geography<br>
-Progress tracking and reporting for parents and teachers<br>
+Progress tracking<br>
 Safe and secure platform to store personal information<br>
 
 
@@ -28,5 +28,5 @@ Rewards System: The app will have a rewards system to encourage kids to learn an
 Modules:<br>
 User Management Module: This module will handle user registration, login, and profile management.<br>
 Content Management Module: This module will manage the educational content, including lessons, games, and activities.<br>
-Progress Tracking Module: This module will track the progress of kids and generate reports for parents/teachers.<br>
+Progress Tracking Module: This module will track the progress of kids.<br>
 Rewards Module: This module will handle the rewards system for kids.<br>
