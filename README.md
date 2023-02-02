@@ -6,9 +6,9 @@ K21PP<br>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) &nbsp; [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<br>
 
-Project Description: Online Kids Learning App
+Project Description: Kids Learning App
 
-Brief Description: The Online Kids Learning App is a digital platform aimed at providing educational resources for children in a fun and interactive way. The app will allow kids to learn and practice various subjects, including arithmetic, language, and geography, through games and activities.
+Brief Description: The Kids Learning App is a digital platform aimed at providing educational resources for children in a fun and interactive way. The app will allow kids to learn and practice various subjects, including arithmetic, language, and geography, through games and activities.
 
 Key Features:<br>
 User-friendly interface designed for kids<br>
