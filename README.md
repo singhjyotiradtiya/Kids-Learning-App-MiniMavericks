@@ -4,7 +4,7 @@ K21PP<br>
 12115099 (Divyansh Jaiswal) (12)<br>
 12115852 (Ashish Kumar) (26)<br>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) &nbsp; [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<br> <br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) &nbsp; [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<br>
 
 Project Description: Online Kids Learning App
 
