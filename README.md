@@ -1,8 +1,8 @@
 # Kids-Learning-App-MiniMavericks
-K21PP
-12115390 (Jyotiraditya Singh) (11)
-12115099 (Divyansh Jaiswal) (12)
-12115852 (Ashish Kumar) (26)
+K21PP<br>
+12115390 (Jyotiraditya Singh) (11)<br>
+12115099 (Divyansh Jaiswal) (12)<br>
+12115852 (Ashish Kumar) (26)<br>
 
 Project Description: Online Kids Learning App
 
